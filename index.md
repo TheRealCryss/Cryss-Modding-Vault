@@ -3,7 +3,7 @@ share: true
 ---
 
 
-Hello .
+Hello
 
 ### [010 Tasks MOC](010%20Tasks%20MOC.md)
 ### [030 Tutorials MOC](030%20Tutorials%20MOC.md)
