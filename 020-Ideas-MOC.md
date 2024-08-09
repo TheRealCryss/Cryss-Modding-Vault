@@ -2,13 +2,12 @@
 share: true
 ---
 
-All ideas:
-```tasks
-no due date
-path does not include #task
-description includes idea
-```
+### All ideas:
 
+- [ ] #tutorial/idea Materials Tutorial
+- [ ] #HPSS/idea Big ship as dungeon that is covered in sand on a desert planet
+- [ ] #HPSS/idea POIs with random factor vendor/bandits/abandoned
+- [ ] #HPSS/idea POI: Settler wants to turn a desert into a desert forest
+  
 
-## See also
 
