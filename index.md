@@ -5,9 +5,7 @@ share: true
 
 Hello .
 
-### [010 Tasks MOC](./010-Tasks-MOC.md)
-### [020 Journal MOC](./020-Journal-MOC.md)
-### [030 Tutorials MOC](./030-Tutorials-MOC.md)
-### [040 Ideas MOC](./040-Ideas-MOC.md)
-
-### [100 Projekte MOC](100%20Projekte%20MOC.md)
+### [010 Journal MOC](./010-Journal-MOC.md)
+### [020 Ideas MOC](./020-Ideas-MOC.md)
+### [030 Tasks MOC](./030-Tasks-MOC.md)
+### [040 Tutorials MOC](./040-Tutorials-MOC.md)
