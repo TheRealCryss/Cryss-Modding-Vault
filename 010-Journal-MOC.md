@@ -1,5 +1,6 @@
 ---
 share: true
+permalink: /journal/
 ---
 
 
@@ -10,7 +11,7 @@ share: true
 
 - 2024-August: 
     - [2024-08-04](./01-Daily-Notes/2024-08-04.md)
-    - [2024-08-06](./2024-08-06.md)
+    - [2024-08-06](./01-Daily-Notes/2024-08-06.md)
 
 
 
