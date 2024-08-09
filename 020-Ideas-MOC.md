@@ -1,5 +1,6 @@
 ---
 share: true
+permalink: /ideas/
 ---
 
 ### All ideas:
