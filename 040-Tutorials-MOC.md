@@ -1,5 +1,6 @@
 ---
 share: true
+permalink: /tutorials/
 ---
 
 ### Starfield:
